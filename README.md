@@ -67,7 +67,7 @@ Credits
 -------
 This project contains data and other related material that is developed by [**AnalytixLabs**](https://www.analytixlabs.co.in).
 
-I acknowledge and grateful to [**Professor ChandraMouli Kotta**](https://www.linkedin.com/in/chandra-mouli-kotta-kota-09620713/) for his continuous support throughout the Certification ([**Data Science using Python**](https://www.analytixlabs.co.in/data-science-using-python) that helped me learn the skills of Linear Regression and develop a **Telecom Segmentation using Scientific segmentation**.
+I acknowledge and grateful to [**Professor ChandraMouli Kotta**](https://www.linkedin.com/in/chandra-mouli-kotta-kota-09620713/) for his continuous support throughout the Certification ([**Data Science using Python**](https://www.analytixlabs.co.in/data-science-using-python) that helped me learn the skills of Scientific Segmentation and develop a **Telecom Segmentation**.
 
 
 Developer
